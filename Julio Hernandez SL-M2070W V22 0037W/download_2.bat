@@ -1,0 +1,2 @@
+usbprns2.exe P_073NB8KG8E0037W_M2070_V3.00.01.22x.hd
+pause 0

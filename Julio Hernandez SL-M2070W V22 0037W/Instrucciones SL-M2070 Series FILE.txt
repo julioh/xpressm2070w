@@ -1,0 +1,51 @@
+Instrucciones SL-M2070 Series
+
+
+
+
+1.- Conectar impresora por medio del cable USB, debe ser la única impresora conectada, una ves
+    finalizado el proceso se podrán conectar las demás impresoras en caso de tener mas de una.
+
+
+
+2.- El chip del cartucho debe estar normal, es decir no tapado con cinta ni retirado
+    este debe ser el mismo que se utilizo para sacar las hojas de reporte.
+
+
+
+3.- Descargar y descomprimir el archivo desde el siguiente LINK.
+
+
+
+
+4.- Encender impresora y dejar que termine su proceso de arranque, dar doble click al archivo
+    download_1 iniciara el proceso de programación, veremos en la impresora un conteo en el 
+    display el cual dura cerca de 2 minutos, al termino del mismo la impresora se reiniciara
+
+
+
+5.- Apagar impresora, dejar presionado el botón de STOP (rojo) y no soltar, encender impresora
+    en cuanto el display de la misma encienda soltar de inmediato botón STOP, el display nos
+    indica presionar y soltar nuevamente botón STOP, al hacerlo quedara indicando el display
+    WAIT IMAGE si el proceso no se hace rápido no entrara a dicho modo y la impresora encenderá
+    de manera normal, si es el caso apagarla y repetir proceso, dejo link de video de como se
+    efectúa el proceso en una impresora similar. 
+
+    https://www.youtube.com/watch?v=qWaSJDQ9q-0
+
+
+   
+6.- Una ves que la impresora este en modo WAIT IMAGE esperar 10 segundos a que windows la
+    reconozca, enseguida dar doble click al archivo download_2 iniciara un segundo proceso
+    de programación, el display de impresora indicara un conteo en porcentaje 10%, 20%, 30%
+    al llegar a 100% se reiniciara nuevamente quedando completado el proceso de programación.
+
+
+
+7.- Retirar el cartucho y tapar su chip con cinta de manera permanente y de cualquier cartucho
+    que desee utilizar, colocarlo de vuelta, la impresora quedara marcando led verde y 100% de
+    manera permanente.
+
+  
+
+8.- CUIDADO! no actualizar en un futuro el firmware del equipo ya que perderemos el reset.
